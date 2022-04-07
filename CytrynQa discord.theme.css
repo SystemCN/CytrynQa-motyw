@@ -1,0 +1,51 @@
+/**
+ * @name CytrynQa discord 
+ * @version  : Cytrynkowa.
+ * @description Super motyw na better discord Autorstwa ~CytrynQa~#6134 
+ * @author CytrynQa
+ * 
+ * @website http://github.com/SystemCN
+ * @source https://github.com/SystemCN/CytrynQa-motywDiscord/blob/master/Themes/Spotify-Discord/css/source.css
+ * @donate https://translate.google.pl/?hl=pl&sl=auto&tl=en&text=Niestety%20ale%20nie%20ma%20tej_strony%20%3A(&op=translate
+ * @invite eEA3cdd8H5
+ */
+
+@import url(https://github.com/SystemCN/CytrynQa-motyw);
+
+:root {
+	--accent-color: #1db954;
+	--accent-hover: #1ed760;
+	--accent-rgb: 29,185,84;
+	--accent-text-color: #1ed760; /*	-	*/
+
+	--chat-color: #121212;
+	--chat-box-color: #272727;
+	--sidebar-color: #000;
+	--sidebar-panel: #090909; /*	-	*/
+
+	--title-bar: #212121;
+	--sticky-header: #181818;
+	--sticky-header-border: #303030; /*	-	*/
+
+	--bar-color: #181818;
+	--bar-border-color: #282828;
+	--bar-size: 90px; /*	-	*/
+
+	--popout-color: #282828;
+	--popout-radius: 7px;
+	--popout-radius-small: 3px; /*	-	*/
+
+	--input-bg: #e0e0e0;
+	--input-text-color: #333;
+	--input-placeholder-color: #444;
+}
+
+/* CUSTOM SERVER TITLE BAR COLORS */
+
+.container-3w7J-x[aria-label*="BetterDiscord"]:before {
+	--title-custom: #3b77c4;
+}
+
+.container-3w7J-x[aria-label*="CapnKitten"]:before {
+	--title-custom: #184c88;
+}
